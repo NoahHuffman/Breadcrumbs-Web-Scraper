@@ -1,0 +1,49 @@
+1705951120421	geckodriver	INFO	Listening on 127.0.0.1:62137
+1705951120958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "621 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\11048414\\AppData\\Local\\Temp\\rust_mozprofileUcOIeF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705951121302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705951121381	Marionette	INFO	Listening on port 62163
+WebDriver BiDi listening on ws://127.0.0.1:62138
+Read port: 62163
+1705951121572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Policies.jsm: 
+  Incompatible add-on - lsiwebhook@lakesidesoftware.com
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62138/devtools/browser/02fc6f1d-fe5e-47eb-87d9-3e3b1fb02f6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awti.3rdeyecam.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awti.3rdeyecam.com."
+1705951136450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:466:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:219:33
+1705951137442	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:466:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:219:33
+1705951142698	Marionette	INFO	Stopped listening on port 62163
+Dynamically enable window occlusion 1
+1705951339456	geckodriver	INFO	Listening on 127.0.0.1:63262
+1705951339956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "632 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\11048414\\AppData\\Local\\Temp\\rust_mozprofileTLSCWC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705951340247	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705951340306	Marionette	INFO	Listening on port 63272
+WebDriver BiDi listening on ws://127.0.0.1:63263
+Read port: 63272
+1705951340475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: Policies.jsm: 
+  Incompatible add-on - lsiwebhook@lakesidesoftware.com
+console.error: ({})
+DevTools listening on ws://127.0.0.1:63263/devtools/browser/68a004bc-f73e-427f-b250-c9f3121de1e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awti.3rdeyecam.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://awti.3rdeyecam.com."
+1705951371104	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
